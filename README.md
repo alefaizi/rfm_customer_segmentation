@@ -2,9 +2,9 @@
 
 ## Business Problem
 
-Customer segmentation is essential for understanding purchasing behavior and improving marketing efficiency. Companies often treat customers as a single group, which leads to inefficient campaigns and missed retention opportunities.
+Retention is cheaper than acquisition — but most companies don't know which customers are worth retaining. Without behavioral segmentation, marketing budgets are spread equally across customers with very different lifetime value potential.
 
-This project applies RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchase behavior and identify high-value groups that can support strategic decision-making in marketing, retention, and customer lifecycle management.
+This project applies RFM analysis to identify distinct customer segments based on purchasing behavior, enabling prioritization of retention efforts and more efficient allocation of marketing resources.
 
 
 ## Dataset
@@ -127,6 +127,14 @@ Main findings from the analysis:
 - Loyal Customers are the biggest group (23%), but generate only 15% of total revenue
 - Most customers purchase only once or 2-3 times
 - High-value customers show strong recency and frequency patterns
+
+## Recommendations
+Strategic Recommendations:
+
+- Champions (22% of customers, 70.5% of revenue): Protect at all costs. Priority targets for loyalty programs and early access to new products.
+- Loyal Customers (23%, 15% of revenue): High frequency but low ticket. Opportunity to increase average order value through upsell strategies.
+- At Risk: Reactivation campaigns with personalized offers before they migrate to Lost.
+- Lost: Low ROI for reactivation. Deprioritize in budget allocation.
 
 ## Dashboard Preview
 Example:
